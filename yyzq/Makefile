@@ -1,0 +1,3 @@
+tztq:
+	@echo "yuyinzengqiang"
+	@echo "..."

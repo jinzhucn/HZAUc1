@@ -1,0 +1,3 @@
+tztq:
+	@echo "tezhentiqu"
+	@echo "..."
