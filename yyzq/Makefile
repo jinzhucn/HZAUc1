@@ -1,4 +1,4 @@
 tztq:
 	@echo "yuyinzengqiang"
 	@echo "..."
-new1
+new12
