@@ -13,6 +13,7 @@ sub_ddjc:
 SUBDIR3 = ./tztq
 MAKE3 = make
 sub_tztq:
+11
 	cd $(SUBDIR3) && $(MAKE3) 
 
 SUBDIR4 = ./yysb
