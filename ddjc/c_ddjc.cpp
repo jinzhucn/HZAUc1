@@ -17,7 +17,7 @@ typedef struct
 	int start;//起始帧
 	int end;//终止帧
 }VAD_DATA;
-
+void
 /* 阈值 */
 const double T1 = 0.0010, T2 = 0.045;
 /* 函数声明 */
